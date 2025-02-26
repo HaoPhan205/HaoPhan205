@@ -32,6 +32,13 @@
 🎨 UI/UX & Design
 ## <p align="center"> <img src="https://skillicons.dev/icons?i=figma,behance,photoshop" /> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haophan205&show_icons=true&locale=en&layout=compact" alt="haophan205" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haophan205&show_icons=true&locale=en" alt="haophan205" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haophan205&" alt="haophan205" /></p>
+
+
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
 </p>
